@@ -27,6 +27,8 @@ steps:
 
 - script: dotnet restore
 
+- script: dotnet --info
+
 - task: VSBuild@1
   inputs:
     solution: '$(solution)'
