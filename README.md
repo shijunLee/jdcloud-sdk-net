@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/SDKBuild/JDCloudSDK/_apis/build/status/shijunLee.jdcloud-sdk-net%20(1)?branchName=master)](https://dev.azure.com/SDKBuild/JDCloudSDK/_build/latest?definitionId=2&branchName=master)
 # 简介
 
 &emsp;&emsp;欢迎使用京东云开发者 .NET 工具套件（.NET SDK）。使用京东云 .NET SDK，您无需复杂编程就可以访问京东云提供的各种服务。    
