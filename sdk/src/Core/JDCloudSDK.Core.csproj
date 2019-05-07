@@ -8,7 +8,8 @@
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <Description>京东云SDK C# core</Description>
     <Copyright>Copyright  ©  2012-2019  JDCloud.com</Copyright>
-	<PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+	  <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+    <PackageLicenseUrl>http://www.apache.org/licenses/</PackageLicenseUrl>
     <PackageProjectUrl>https://docs.jdcloud.com/cn/sdk/dotnet</PackageProjectUrl>
     <PackageIconUrl>https://www.jdcloud.com/static/img/favicon.ico</PackageIconUrl>
     <RepositoryUrl>https://github.com/jdcloud-api</RepositoryUrl>
